@@ -1,0 +1,7 @@
+c:\users\khanhhq1\source\repos\HelloWorld\HandleFile\bin\Debug\HandleFile.exe.config
+c:\users\khanhhq1\source\repos\HelloWorld\HandleFile\bin\Debug\HandleFile.exe
+c:\users\khanhhq1\source\repos\HelloWorld\HandleFile\bin\Debug\HandleFile.pdb
+c:\users\khanhhq1\source\repos\HelloWorld\HandleFile\obj\Debug\HandleFile.csprojAssemblyReference.cache
+c:\users\khanhhq1\source\repos\HelloWorld\HandleFile\obj\Debug\HandleFile.csproj.CoreCompileInputs.cache
+c:\users\khanhhq1\source\repos\HelloWorld\HandleFile\obj\Debug\HandleFile.exe
+c:\users\khanhhq1\source\repos\HelloWorld\HandleFile\obj\Debug\HandleFile.pdb

@@ -1,0 +1,6 @@
+c:\users\khanhhq1\source\repos\WindowsFormsApp1\com.khanh.calculator.operation\bin\Debug\com.khanh.calculator.operation.dll
+c:\users\khanhhq1\source\repos\WindowsFormsApp1\com.khanh.calculator.operation\bin\Debug\com.khanh.calculator.operation.pdb
+c:\users\khanhhq1\source\repos\WindowsFormsApp1\com.khanh.calculator.operation\obj\Debug\com.khanh.calculator.operation.csproj.CoreCompileInputs.cache
+c:\users\khanhhq1\source\repos\WindowsFormsApp1\com.khanh.calculator.operation\obj\Debug\com.khanh.calculator.operation.dll
+c:\users\khanhhq1\source\repos\WindowsFormsApp1\com.khanh.calculator.operation\obj\Debug\com.khanh.calculator.operation.pdb
+c:\users\khanhhq1\source\repos\WindowsFormsApp1\com.khanh.calculator.operation\obj\Debug\com.khanh.calculator.operation.csprojAssemblyReference.cache
